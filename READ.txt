@@ -1,0 +1,1 @@
+Use Teh Command go run main.go
